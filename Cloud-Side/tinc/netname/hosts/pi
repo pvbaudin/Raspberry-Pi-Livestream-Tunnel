@@ -1,0 +1,6 @@
+Subnet = 10.20.30.4/32
+Port = 700
+
+-----BEGIN RSA PUBLIC KEY-----
+insert key here
+-----END RSA PUBLIC KEY-----
