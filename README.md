@@ -6,6 +6,7 @@
 
 ## Setup
 1. generate keys and exchange them in the tinc hosts folder.
+      "sudo tincd -n netname -K4096"
 2. add server ip address to server file in hosts folder and to tinc.conf for server
 3. run container with docker compose
 
